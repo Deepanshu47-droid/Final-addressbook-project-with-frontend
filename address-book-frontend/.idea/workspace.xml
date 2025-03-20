@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5eb78e5e-0abe-4994-ab60-dd1b2c532f31" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/address-book/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/address-book/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/address-book/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/address-book/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/address-book/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/address-book/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/address-book/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/address-book/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/address-book/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/address-book/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/address-book/src/app/app.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/address-book/src/app/app.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/address-book/src/app/app.routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/address-book/src/app/app.routes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/address-book/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/address-book/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/address-book/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/address-book/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/address-book/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/address-book/src/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../addressbook/src/main/java/com/addressbook/controller/DTOContactController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../addressbook/src/main/java/com/addressbook/controller/DatabaseContactController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook/src/main/java/com/addressbook/controller/DatabaseContactController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../addressbook/src/main/java/com/addressbook/controller/ServiceContactController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../addressbook/src/main/java/com/addressbook/dto/ContactDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook/src/main/java/com/addressbook/dto/ContactDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../addressbook/src/main/java/com/addressbook/exception/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook/src/main/java/com/addressbook/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../addressbook/src/main/java/com/addressbook/model/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook/src/main/java/com/addressbook/model/Contact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../addressbook/src/main/java/com/addressbook/service/ContactService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook/src/main/java/com/addressbook/service/ContactService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../addressbook/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../addressbook/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2uCPQ9UI5VQEsmr9N0tU3qovJvI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5eb78e5e-0abe-4994-ab60-dd1b2c532f31" name="Changes" comment="" />
+      <created>1741749563809</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741749563809</updated>
+    </task>
+    <servers />
+  </component>
+</project>
